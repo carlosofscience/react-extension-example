@@ -5,6 +5,7 @@
   "description": "Chrome extension using react",
   "action":{
     "default_popup": "popup.html",
-    "default_title": "React Extension"
+    "default_title": "React Extension",
+    "default_icon": "icon.png"
   }
 }
